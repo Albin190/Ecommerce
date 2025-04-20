@@ -68,15 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-That’s amazing, Faraz! 🔥 You're building a full **eCommerce backend** with **Login** and **Signup** — and you want to explain or write about it in **basic English**. Perfect! Here's a simple way to describe your project:
 
 ---
 
-### 🛒 **My eCommerce Backend Project (in Basic English)**
 
-> I am building a full eCommerce backend using JavaScript.  
-It has login and signup features.  
-I want to add all basic features like a real eCommerce website.
 
 ---
 
